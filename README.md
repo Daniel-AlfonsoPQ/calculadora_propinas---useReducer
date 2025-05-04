@@ -1,11 +1,12 @@
 ## 💰 Calculadora de Propinas y Consumos
 
 Este proyecto permite seleccionar platillos de un menú predefinido, sumar su costo y calcular la propina deseada para obtener el total. Ideal para dividir cuentas de manera clara y rápida.
+
 🔗 [Live Demo](https://calculadora-de-propinas-usereducerf.netlify.app/)
 
 ### 🚀 Vista previa
 
-![Propinas App Screenshot](./screenshot.png) <!-- Cambia esta ruta si tienes una imagen del proyecto -->
+![Vista previa del proyecto](./img-readme/propinas-consumos.jpg) <!-- Cambia esta ruta si tienes una imagen del proyecto -->
 
 ---
 
