@@ -42,7 +42,7 @@ This project allows you to track calories consumed (food) and burned (exercise).
 
 ### 🚀 Preview
 
-![Calorie Counter App Screenshot](./screenshot.png) <!-- Replace this path with an actual screenshot if available -->
+![Calorie Counter App Screenshot](./img-readme/propinas-consumos.jpg) <!-- Replace this path with an actual screenshot if available -->
 
 ---
 
